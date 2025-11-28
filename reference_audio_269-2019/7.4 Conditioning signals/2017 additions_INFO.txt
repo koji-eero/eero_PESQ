@@ -1,0 +1,14 @@
+IEEE Male Doubletalk conditioning Part 1 48kHz mono
+also true for Part 2:
+
+Active time 42.05%
+ASL-Leq = 3.76dB
+Length = 24s
+
+
+IEEE Female Doubletalk conditioning Part 1 48kHz mono
+also true for Part 2:
+
+Active time 43.60%
+ASL-Leq = 3.61dB
+Length = 20s
